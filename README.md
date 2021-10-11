@@ -15,7 +15,7 @@ If deploying to Heroku make sure to create config variables
 
 ```
 https://github.com/peachii0z/discord-selfbot-music/
-cd evobot
+cd discord-selfbot-music
 npm install .
 ```
 
