@@ -1,5 +1,6 @@
 # 🤖 EvoBot (Discord Music Self Bot)
 > EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide) | Re-make by Khanh Vu
+
 > Sử dụng self bot có thể bị ban nếu như có người report & mình sẽ không chịu trách nhiệm về bất cứ vấn đề gì
 ## Requirements
 
