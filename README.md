@@ -8,6 +8,7 @@
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
 3. Node.js v16.0.0 or newer **[Download](https://nodejs.org/en/)**
+4. Script get token **[Script here](https://ghostbin.com/atJ0a)**
 
 ## 🚀 Getting Started
 
@@ -116,12 +117,4 @@ Examples: `1` or `1,2,3`
 
 ![reactions](https://i.imgur.com/9S7Omf9.png)
 
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
 
