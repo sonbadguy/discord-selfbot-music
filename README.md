@@ -14,9 +14,9 @@
 If deploying to Heroku make sure to create config variables
 
 ```
-git clone https://github.com/eritislami/evobot.git
+https://github.com/peachii0z/discord-selfbot-music/
 cd evobot
-npm install
+npm install .
 ```
 
 After installation finishes you can use `node index.js` to start the bot.
