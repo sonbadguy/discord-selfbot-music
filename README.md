@@ -4,11 +4,10 @@
 > Sử dụng self bot có thể bị ban nếu như có người report & mình sẽ không chịu trách nhiệm về bất cứ vấn đề gì
 ## Requirements
 
-1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
-2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
-3. Node.js v16.0.0 or newer **[Download](https://nodejs.org/en/)**
-4. Script get token **[Script here](https://ghostbin.com/atJ0a)**
+1. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
+1.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
+2. Node.js v16.0.0 or newer **[Download](https://nodejs.org/en/)**
+3. Script get token **[Script here](https://ghostbin.com/atJ0a)**
 
 ## 🚀 Getting Started
 
